@@ -1,0 +1,35 @@
+div.weQuiz {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #AAAAAA;
+  padding: 1ex;
+  background-color: #F6F9ED;
+}
+
+ul.weQquestion {
+  list-style-type: decimal;
+  list-style-image: none;
+  margin-left: 75px;
+}
+
+ul.weQoption {
+  list-style-type: none;
+  list-style-image: none;
+}
+
+ul.weQresponse {
+  list-style-type: none;
+  list-style-image: none;
+  display: none;
+}
+
+img.weQuiz { float: left; }
+
+.WEPoll label, .weQuiz label {
+  display: inline;
+  font-weight: normal;
+  margin-left: 0.5em;
+}
+
+h1.weQuiz {font-size: 130%; font-weight: bold; border: none; }
+
