@@ -1,0 +1,6 @@
+[submodule ".openshift/plugins/wordpress-oeru_theme"]
+	path = .openshift/plugins/wordpress-oeru_theme
+	url = https://github.com/pgogy/wordpress-oeru_theme.git
+[submodule ".openshift/plugins/uio-wordpress-plugin"]
+	path = .openshift/plugins/uio-wordpress-plugin
+	url = https://github.com/fluid-project/uio-wordpress-plugin.git
