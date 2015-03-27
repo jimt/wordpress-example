@@ -7,6 +7,11 @@ same as your application name (using getenv('OPENSHIFT_APP_NAME')).  You can nam
 your application whatever you want.  However, the name of the database will always
 match the application so you might have to update .openshift/action_hooks/build.
 
+It includes
+
+* WordPress 4.1.1
+* OERu theme
+* UIO plugin from the Fluid Project
 
 Running on OpenShift
 ----------------------------
